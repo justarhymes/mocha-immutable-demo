@@ -1,0 +1,16 @@
+{
+  "name": "mocha-immutable-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Justin King <justin@dapshow.com> (webdeveloperdude.com)",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "immutable": "^4.0.0-rc.12",
+    "mocha": "^8.0.1"
+  }
+}
