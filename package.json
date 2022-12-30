@@ -11,6 +11,6 @@
   "dependencies": {
     "assert": "^2.0.0",
     "immutable": "^4.0.0-rc.12",
-    "mocha": "^8.0.1"
+    "mocha": "^8.4.0"
   }
 }
